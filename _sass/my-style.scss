@@ -19,12 +19,12 @@
 
 .about-split__img {
   display: block;
-  width: 220px;      /* ← main size control (try 180–280) */
+  width: 240px;      /* ← main size control (try 180–280) */
   max-width: 100%;
   height: auto;
   border-radius: 8px; /* use 50% for a circle */
   object-fit: cover;
-  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 18px rgba(206, 178, 178, 0.12);
 }
 
 /* Stack on small screens: image on top or under text */
