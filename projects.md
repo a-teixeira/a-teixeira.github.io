@@ -9,3 +9,9 @@ permalink: /projects/
 
 ## Python
 ...
+
+## R
+...
+
+## Cybersecurity
+...

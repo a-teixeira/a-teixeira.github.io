@@ -15,15 +15,19 @@ description: Curriculum vitae — Augusto Teixeira
 
 ## Profile
 
-One short paragraph (3–5 lines) — same story as your About, but denser: law/politics → Business Informatics, data analysis, storytelling, cybersecurity. Munich.
+You cant control the outcome, but you can control the process.
+
+Law/Politics → Business Informatics → Cybersecurity
+
+Based in Munich.
 
 ---
 
 ## Focus
 
 - Pragmatic data analysis (SQL, Python, R)
-- BI / dashboards and decision-ready reporting
-- Cybersecurity fundamentals (SIEM, logs, detection mindset)
+- BI (Tableau) / dashboards and decision-ready reporting
+- Cybersecurity fundamentals as curiosity (SIEM, logs, detection mindset)
 
 ---
 
@@ -46,7 +50,7 @@ One short paragraph (3–5 lines) — same story as your About, but denser: law/
 - Relevant coursework: databases, analytics, IS, security…
 - Thesis / major project if any
 
-### Earlier studies (Law / Politics) — institution — dates
+### Earlier study (Politics) — institution — dates
 - One line on what you keep from that path (evidence, argumentation, systems)
 
 ---
