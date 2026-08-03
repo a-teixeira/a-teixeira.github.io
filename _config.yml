@@ -45,6 +45,15 @@ author:
     # linkedin:        Augusto Teixeira
     # email:           augustotei45@gmail.com
 
+menu:
+  - title: Home
+    url:   /
+  - title: About
+    url:   /about/
+  - title: Projects
+    url:   /projects/
+  - title: CV
+    url:   /cv/
 
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
