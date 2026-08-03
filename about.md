@@ -15,7 +15,7 @@ description: About Augusto Teixeira
 
 <p>That same discipline of evidence met scale at CoronaNet, wehre I worked as an expert research assistant on public and economic policies worldwide, with a focus on Luxembourg and Brazil. I collected, cleaned, integrated, and supervised more than 600 policies into the project database, coordinated three other research assistants, and ran onboarding for new members - while also contributing to workshops on the R programming language.</p>
 
-<p>Today I study Business Informatics (Wirtschaftsinformatik) in Munich and build my work around one center of gravity: pragmatic data analysis. Not analysis as decoration - analysis as a way to answer real questions under constraints of ti3me, quality, and consequence. SQL and Python for the spine; R when the statistics have to be honest; BI when the answer has to travel from a query to a room full of people who will act on it.</p>
+<p>Today I study Business Informatics (Wirtschaftsinformatik) in Munich and build my work around one center of gravity: pragmatic data analysis. Not analysis as decoration - analysis as a way to answer real questions under constraints of time, quality, and consequence. SQL and Python for the spine; R when the statistics have to be honest; BI when the answer has to travel from a query to a room full of people who will act on it.</p>
 
 <p>I care about storytelling the way a good counsel cares about a closing argument. Numbers rarely persuade on their own. Sequence does. Framing does. Knowing what to leave out does. My aim is work that is technically sound and narratively clear: a path from raw data to a conclusion someone can audit, challenge, and still understand.</p>
 
