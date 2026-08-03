@@ -39,14 +39,14 @@ exclude:
 
 author:
   name:                Augusto Teixeira
-  email:               YOUR_EMAIL@example.com
+  email:               augustotei45@gmail.com
   about:               >
     Business Informatics student in Munich.
-    Focus on data analysis, SQL, Python, R, and BI / Security.
+    Focus on SQL, Python, R, and Tableau / Adventuring in Cybersecurity.
   social:
     github:            a-teixeira
-    # linkedin:        Augusto Teixeira
-    # email:           augustotei45@gmail.com
+    linkedin:        Augusto Teixeira
+    email:           augustotei45@gmail.com
 
 menu:
   - title: Home
