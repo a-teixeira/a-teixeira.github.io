@@ -33,6 +33,9 @@ exclude:
   - jekyll-theme-hydejack.gemspec
   - assets/bower_components/katex/docs
   - assets/bower_components/html5shiv
+  - forms-by-example.md
+  - licenses
+  
 
 author:
   name:                Augusto Teixeira
