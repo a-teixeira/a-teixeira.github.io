@@ -6,6 +6,34 @@ copyright:             © 2026 Augusto Teixeira. All rights reserved.
 url:                   "https://a-teixeira.github.io"
 baseurl:               ""
 
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-avatar
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+
+exclude:
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - NOTICE.md
+  - jekyll-theme-hydejack.gemspec
+  - assets/bower_components/katex/docs
+  - assets/bower_components/html5shiv
+
 author:
   name:                Augusto Teixeira
   email:               YOUR_EMAIL@example.com
