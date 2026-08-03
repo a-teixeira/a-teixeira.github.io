@@ -1,0 +1,44 @@
+/* About: text left, image right */
+.about-split {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 0.5rem 0 2rem;
+}
+
+.about-split__text {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.about-split__media {
+  flex: 0 0 auto;
+  position: sticky;
+  top: 1.5rem; /* stays in view while scrolling long bio */
+}
+
+.about-split__img {
+  display: block;
+  width: 180px;      /* ← main size control (try 180–280) */
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px; /* use 50% for a circle */
+  object-fit: cover;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* Stack on small screens: image on top or under text */
+@media (max-width: 42em) {
+  .about-split {
+    flex-direction: column-reverse; /* image on top; use column for image below */
+    align-items: center;
+  }
+
+  .about-split__media {
+    position: static;
+  }
+
+  .about-split__img {
+    width: 180px;
+  }
+}
