@@ -9,6 +9,16 @@
 .about-split__text {
   flex: 1 1 0;
   min-width: 0;
+  text-align: justify;      /* even right edge */
+  text-justify: inter-word; /* spacing between words */
+  hyphens: auto;            /* optional: fewer huge gaps */
+  -webkit-hyphens: auto;
+  line-height: 1.65;
+}
+
+.about-split__text p {
+  margin: 0 0 1em;
+  text-align: justify;
 }
 
 .about-split__media {
