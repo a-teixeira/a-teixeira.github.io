@@ -1,6 +1,6 @@
 lang:                  en
 title:                 Augusto Teixeira
-description:           Data Analysis SQL Python R BI Portfolio
+description:           Data Analysis Cybersecurity Portfolio
 copyright:             © 2026 Augusto Teixeira. All rights reserved.
 
 url:                   "https://a-teixeira.github.io"
@@ -35,7 +35,7 @@ exclude:
   - assets/bower_components/html5shiv
   - forms-by-example.md
   - licenses
-  
+
 
 author:
   name:                Augusto Teixeira
