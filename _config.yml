@@ -43,9 +43,13 @@ author:
   about:               >
     Expert Research Assistent and Data Integration Manager.
     Focus on SQL, Python, R, and Tableau / Adventuring in Cybersecurity.
+  picture:
+    path: /assets/img/me-prof.jpg
+    # optional sharper screens:
+    # srcset: /assets/img/me.jpg 1x, /assets/img/me@2x.jpg 2x
   social:
     github:            a-teixeira
-    linkedin:        Augusto Teixeira
+    linkedin:        augustoteixeira
     email:           augustotei45@gmail.com
 
 menu:
