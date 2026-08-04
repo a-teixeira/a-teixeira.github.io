@@ -93,13 +93,94 @@ Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.n
 
 ## BI / Tableau
 
-### [Dashboard title]
-**Tableau · dashboards** · Year
+### Tableau Public portfolio (14+ vizzes)
+**Tableau · interactive dashboards · Open data** · ongoing
 
-**Problem.** Who needed which decisions?  
-**Approach.** KPIs, filters, layout, storytelling.  
-**Result.**  
-**Link.** Tableau Public or screenshot in `assets/img/projects/`
+**Problem:** Turn sales, geography, and operational data into views that answer business questions quickly — profitability, category trends, customer patterns, loss hotspots.
+
+**Approach:** Built and published **15 visualizations** on Tableau Public (dashboards and analytical sheets): calculated fields, dual axes, maps, scatterplots, control charts, filters, and dashboard layout for stakeholder storytelling. Mix of **interactive dashboards** and focused single-sheet analyses (mainly Superstore; also CO₂, conflict, and other open datasets).
+
+**Result:** A public portfolio of KPI- and question-driven views recruiters can open in the browser — no install needed.
+
+**Stack:** Tableau Desktop / Public · calculated fields · dashboard actions · maps · time series
+
+**Link:** [Tableau Public — Augusto Teixeira](https://public.tableau.com/app/profile/augusto.teixeira/vizzes)
+
+---
+
+### Featured 1 — Which of our sales are less profitable? - Map of Meaning
+**Tableau · dashboard · profitability · geography**
+
+**Problem:** Which regions/segments sell a lot but earn little (or lose money)?
+
+**Approach:** Interactive **Map of Meaning** dashboard combining sales volume and profit signals so low-profit / high-sales areas stand out at a glance.
+
+**Result:** Geographic profitability story — where to investigate discounts, mix, or cost — not just “who sold most.”
+
+**Link:** [Open dashboard](https://public.tableau.com/app/profile/augusto.teixeira/viz/WhichofoursalesarelessprofitableMapofMeaning/Dashboard1)
+
+---
+
+### Featured 2 — Total Sales by Category over Time
+**Tableau · time series · category performance**
+
+**Problem:** How do category sales evolve — growth, seasonality, relative strength?
+
+**Approach:** Category × time view of total sales to compare trajectories and spot shifts in the mix.
+
+**Result:** Clear trend comparison across categories for planning and narrative (“what’s growing vs flat”).
+
+**Link:** [Open viz](https://public.tableau.com/app/profile/augusto.teixeira/viz/TotalSalesbyCategoryoverTime/TotalSalesbyCategoryoverTime)
+
+---
+
+### Featured 3 — Superstore: are we losing or winning?
+**Tableau · loss patterns · Superstore**
+
+**Problem:** Overall, is the business winning on profit — and where do losses cluster?
+
+**Approach:** Pattern-of-losses style view on Superstore to separate winning vs losing pockets (products/segments), not only headline revenue.
+
+**Result:** Decision-oriented loss map: where profitability breaks even when sales look fine.
+
+**Link:** [Open viz](https://public.tableau.com/app/profile/augusto.teixeira/viz/SuperstoreDatasetareweloosingorwinnning/PatternofLosses)
+
+---
+
+### Featured 4 — Customer Scatterplot
+**Tableau · customer analytics · scatter**
+
+**Problem:** How do customers distribute on key value metrics (e.g. sales vs profit)?
+
+**Approach:** Scatterplot of customers to surface outliers, high-value vs high-volume, and segments that need a different offer or cost structure.
+
+**Result:** Quick customer portfolio read — who to protect, who to fix, who is noise.
+
+**Link:** [Open viz](https://public.tableau.com/app/profile/augusto.teixeira/viz/CustomerScatterplot_16934843484120/CustomerScatterplot)
+
+---
+
+<!-- Optional: keep this short list under the featured blocks if you want all titles visible -->
+<details>
+<summary>All published vizzes (15)</summary>
+
+1. [Global CO2 Emissions](https://public.tableau.com/app/profile/augusto.teixeira/viz/GlobalCO2Emissions_17107622359230/Sheet1)
+2. [Map of Meaning: Sales and Profits by Region](https://public.tableau.com/app/profile/augusto.teixeira/viz/MapofMeaningSalesandProfitsbyRegion/MapofMeaningSalesandProfitbyRegion)
+3. [Total Sales by Category over Time](https://public.tableau.com/app/profile/augusto.teixeira/viz/TotalSalesbyCategoryoverTime/TotalSalesbyCategoryoverTime)
+4. [Shipping Trend Q4 2014 - SuperSales Store](https://public.tableau.com/app/profile/augusto.teixeira/viz/ShippingTrendQ42014-SuperSalesStore/Dashboard1)
+5. [Customer Scatterplot](https://public.tableau.com/app/profile/augusto.teixeira/viz/CustomerScatterplot_16934843484120/CustomerScatterplot)
+6. [Which of our sales are less profitable? Map of Meaning](https://public.tableau.com/app/profile/augusto.teixeira/viz/WhichofoursalesarelessprofitableMapofMeaning/Dashboard1)
+7. [Strip Plot & Control Chart](https://public.tableau.com/app/profile/augusto.teixeira/viz/StripPlotControlChart_16932326497170/ControlChart)
+8. [Dont trust only in Statistics!](https://public.tableau.com/app/profile/augusto.teixeira/viz/DonttrustonlyinStatistics/VisualiseyourdatanotonlyStatistics)
+9. [SuperStore Discount & Profit - 2011 until 2015](https://public.tableau.com/app/profile/augusto.teixeira/viz/SuperStoreDiscountProfit-2011until2015_16920266729280/Dashboard1)
+10. [SuperStore Discount & Profit (sheet)](https://public.tableau.com/app/profile/augusto.teixeira/viz/SuperStoreDiscountProfit-2011until2015/SuperStoreDiscountProfit-2011until2015)
+11. [Superstore Dataset: are we loosing or winnning?](https://public.tableau.com/app/profile/augusto.teixeira/viz/SuperstoreDatasetareweloosingorwinnning/PatternofLosses)
+12. [Tallest Buildings Worldwide](https://public.tableau.com/app/profile/augusto.teixeira/viz/TallestBuildingsWorldwide/TallestBuildingsWorldwide)
+13. [Superstore Calculation Table](https://public.tableau.com/app/profile/augusto.teixeira/viz/SuperstoreCalculationTable/ProfitabilitybyItem)
+14. [Visualizing Conflict Worldwide](https://public.tableau.com/app/profile/augusto.teixeira/viz/VisualizingConflictWorldwide/Dashboard1)
+15. [Data Visualization with Tableau](https://public.tableau.com/app/profile/augusto.teixeira/viz/DataVisualizationwithTableau_16914068120650/Dashboard1)
+
+</details>
 
 ---
 
