@@ -188,7 +188,7 @@ Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.n
 
 1. Consult with Stakeholders  
 2. Define the question and success metric  
-3. Choose SQL, Python, R, or BI for each respective task  
-4. Clean and validate before modeling or charting
+3. Choose SQL, Python, R, or BI for each task  
+4. Clean, structure, and validate 
 5. Analize, model, and visualize to extract insights
 6. Deliver something another person can audit and use
