@@ -39,7 +39,7 @@ Research data workflows · data harmonization · quality control · R · structu
 Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.nature.com/articles/s41597-023-02881-x)
 
 
-
+<!-- 
 ## SQL
 
 ### [Title of your SQL project]
@@ -49,11 +49,11 @@ Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.n
 **Approach.** Tables, joins, filters, metrics you defined.  
 **Result.** What you could answer or automate.  
 **Link.** [GitHub repo](https://github.com/a-teixeira/...)
-
+ -->
 <!-- Delete this block until you have a real project -->
 
 ---
-
+<!-- 
 ## Python
 
 ### [Title of your Python project]
@@ -63,7 +63,7 @@ Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.n
 **Approach.** Cleaning, transforms, analysis.  
 **Result.**  
 **Link.** [GitHub](https://github.com/a-teixeira/...)
-
+ -->
 ---
 
 ## R
@@ -81,13 +81,13 @@ Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.n
 
 **Link:** [GitHub — party-discourse-lda-r](https://github.com/a-teixeira/party-discourse-lda-r)
 
-### [Title — or “Reporting workflows (CoronaNet-related)”]
+<!-- ### [Title — or “Reporting workflows (CoronaNet-related)”]
 **R · statistics / reporting** · Year
 
 **Problem.**  
 **Approach.**  
 **Result.**  
-**Link.**
+**Link.** -->
 
 ---
 
