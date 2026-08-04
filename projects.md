@@ -79,7 +79,7 @@ Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.n
 
 **Stack:** R, quanteda, seededlda, topicmodels, dplyr, lubridate, ggplot2, readtext
 
-**Link:** [GitHub — populist-party-discourse-r](https://github.com/a-teixeira/party-discourse-lda-r)
+**Link:** [GitHub — party-discourse-lda-r](https://github.com/a-teixeira/party-discourse-lda-r)
 
 ### [Title — or “Reporting workflows (CoronaNet-related)”]
 **R · statistics / reporting** · Year
