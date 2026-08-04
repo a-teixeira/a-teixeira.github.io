@@ -53,3 +53,36 @@ The snippet below will run the code on every `hy-push-state-load` event instead.
   });
 </script>
 {% endcomment %}
+
+<script>
+  (function () {
+    function isHome() {
+      var p = location.pathname.replace(/\/$/, '') || '/';
+      return p === '/' || p === '';
+    }
+    function forceCover() {
+      if (!isHome()) return;
+      var d = document.getElementById('_drawer');
+      if (!d) return;
+      d.classList.add('cover');
+      try {
+        if (history.state && history.state.closedOnce) {
+          var s = Object.assign({}, history.state);
+          delete s.closedOnce;
+          history.replaceState(s, document.title);
+        } else if (!history.state) {
+          history.replaceState({}, document.title);
+        }
+      } catch (e) {}
+      window.scrollTo(0, 0);
+      d.setAttribute('opened', '');
+      try { d.open = true; } catch (e) {}
+    }
+    document.addEventListener('hy-drawer-init', forceCover);
+    window.addEventListener('load', function () {
+      forceCover();
+      setTimeout(forceCover, 50);
+      setTimeout(forceCover, 250);
+    });
+  })();
+</script>
