@@ -22,7 +22,7 @@ description: About Augusto Teixeira
 
 <p>Between Brazil, Germany, and the languages I work in, I've learned to translate more than words - between domains, between technical depth and human stakes, between "interesting finding" and "decision".</p>
 
-<p>I'm here to keep crossing that bridge: politics' sense of systems, business's sense of incentives, informatics' tools, and security's edge — always returning to data that means something, told well enough to matter.</p>
+<p>I'm here to keep crossing that bridge: politics' sense of systems, business's sense of incentives, informatics' tools, and security's edge  always returning to data that means something, told well enough to matter.</p>
 
 <p>It didn't start in a terminal, but it will probably end there: with one more query, one sharper analysis, one signal that finally makes sense.</p>
 
