@@ -52,3 +52,46 @@
     width: 180px;
   }
 }
+
+/* Circle avatar — no stretch */
+.sidebar-about .avatar,
+#_sidebar .avatar {
+  width: 6.5rem;
+  height: 6.5rem;
+  border-radius: 100%;
+  overflow: hidden;
+  display: block;
+  margin: 0 auto 0.75rem;
+  object-fit: cover;      /* keep aspect ratio, crop edges if needed */
+  object-position: center top; /* face usually higher — adjust if needed */
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+/* if avatar is <img> inside a wrapper */
+.sidebar-about a .avatar,
+.sidebar-about a img.avatar {
+  width: 6.5rem;
+  height: 6.5rem;
+  object-fit: cover;
+  object-position: center top;
+}
+
+/* Sidebar + welcome cover background framing */
+.sidebar-bg,
+#_sidebar .sidebar-bg,
+.sidebar::before {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  /* more weight on UPPER part of the photo (less “cut from the bottom” feel) */
+  background-position: center 25% !important;
+}
+
+/* Some Hydejack builds use an <img> for the bg */
+.sidebar-bg img,
+#_sidebar img.sidebar-bg,
+.sidebar-bg > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover !important;
+  object-position: center 20% !important;
