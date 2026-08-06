@@ -109,7 +109,7 @@ description: Interactive dashboards and 14+ public visualizations focused on cle
     </p>
 
     <h3>Result</h3>
-    <p>3
+    <p>
       Shows the trade-off: discounts can boost sales while profits suffer.
       Reading also suggests <strong>no clear correlation between geography and profits</strong>
       in this Superstore cut — so the lever is more commercial than purely regional.
