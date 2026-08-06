@@ -41,14 +41,14 @@ description: Research data integration, harmonization, and quality for a global 
 
 <h2 id="recognition">Recognition</h2>
 <p>Named in the acknowledgements of the project article on harmonizing government COVID-19 responses — for <strong>onboarding and training RAs on data harmonization</strong> and for <strong>monitoring and feedback on harmonization errors</strong>.</p>
-<p><em>Cheng, C., Messerschmidt, L., et al.</em> Related output: <a href="https://www.nature.com/articles/s41597-023-02881-x" target="_blank" rel="noopener">Scientific Paper (Nature)</a> — acknowledgement.</p> 
+<p><em>Cheng, C., Messerschmidt, L., et al.</em> Related output: <a href="https://www.nature.com/articles/s41597-023-02881-x" target="_blank" rel="noopener">Scientific Data (Nature)</a> — acknowledgement.</p> 
 <p>Reference letter: Luca Messerschmidt, PI — available on request.</p>
 
 <h2 id="stack">Stack</h2>
 <p>Research data workflows · data harmonization · quality control · R · Qualtrics / structured coding · coordination</p>
 
 <h2 id="links">Links</h2>
-<p><a href="https://www.nature.com/articles/s41597-023-02881-x" target="_blank" rel="noopener">Scientific Paper (Nature)</a></p>
+<p><a href="https://www.nature.com/articles/s41597-023-02881-x" target="_blank" rel="noopener">Scientific Data (Nature)</a></p>
 <p><a href="https://www.coronanet-project.org">CoronaNet</a></p>
 
 </article>
