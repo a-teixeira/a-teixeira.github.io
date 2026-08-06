@@ -96,3 +96,23 @@
   object-fit: cover !important;
   object-position: center 100% !important;
 }
+
+/* Format of Tableau vizzes in showcase */
+.case__main h3 {
+  margin: 1rem 0 0.35rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+
+.viz-link {
+  margin: 0.25rem 0 1rem;
+  font-size: 0.95rem;
+}
+
+.case__main h2[id^="viz-"] {
+  margin-top: 2.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(127, 127, 127, 0.25);
+}

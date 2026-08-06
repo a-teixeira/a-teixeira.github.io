@@ -192,3 +192,7 @@ Links: [CoronaNet](https://www.coronanet-project.org) · [Article](https://www.n
 4. Clean, structure, and validate 
 5. Analize, model, and visualize to extract insights
 6. Deliver something another person can audit and use
+
+<a class="showcase-card" href="/showcase/coronanet/">...</a>
+<a class="showcase-card" href="/showcase/r-workflows/">...</a>
+<a class="showcase-card" href="/showcase/tableau/">...</a>
