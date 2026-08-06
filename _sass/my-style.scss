@@ -153,3 +153,71 @@
   opacity: 0.75;
   font-size: 0.92rem;
 }
+
+
+/* Case study: main + right rail (Cejas-like) */
+.case__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 12rem;
+  gap: 1.75rem;
+  align-items: start;
+  margin-top: 0.5rem;
+}
+.case__back { margin: 0 0 0.75rem; font-size: 0.95rem; }
+.case__hero {
+  display: block;
+  width: 100%;
+  max-height: 280px;
+  object-fit: contain;
+  object-position: left center;
+  margin: 0.25rem 0 1rem;
+  border-radius: 6px;
+}
+.case__hero--logo { max-height: 120px; width: auto; }
+.case__quote {
+  margin: 0.75rem 0 1.25rem;
+  font-style: italic;
+  opacity: 0.9;
+  max-width: 36rem;
+}
+.case__main h2 {
+  margin: 1.1rem 0 0.4rem;
+  font-size: 1.15rem;
+}
+.case__main p, .case__main ul {
+  margin: 0 0 0.65rem;
+  line-height: 1.55;
+}
+.case__main ul { padding-left: 1.2rem; }
+.case__rail {
+  position: sticky;
+  top: 4.5rem;
+  font-size: 0.82rem;
+}
+.case__rail-block { margin-bottom: 1.25rem; }
+.case__rail h3 {
+  margin: 0 0 0.4rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.65;
+}
+.case__rail nav { display: flex; flex-direction: column; gap: 0.35rem; }
+.case__rail a { text-decoration: none; opacity: 0.85; }
+.case__rail a:hover { text-decoration: underline; opacity: 1; }
+
+/* Compact Tableau PAR blocks */
+.viz-block {
+  margin: 0 0 1rem;
+  padding: 0.85rem 0 0.25rem;
+  border-top: 1px solid rgba(127, 127, 127, 0.22);
+}
+.viz-block:first-of-type { border-top: 0; }
+.viz-block h2 { margin: 0 0 0.25rem; font-size: 1.05rem; }
+.viz-meta { margin: 0 0 0.35rem !important; font-size: 0.85rem; opacity: 0.65; }
+.viz-block p { margin: 0 !important; line-height: 1.5; }
+
+@media (max-width: 48em) {
+  .case__grid { grid-template-columns: 1fr; }
+  .case__rail { position: static; order: -1; }
+}

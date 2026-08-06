@@ -10,15 +10,15 @@ Work across **research data**, **R**, and **BI/Tableau** — from messy sources 
 <div class="showcase-grid">
 
   <a class="showcase-card" href="{{ '/showcase/coronanet/' | relative_url }}">
-    <img src="{{ '/assets/img/showcase/coronanet-logo.png' | relative_url }}" alt="CoronaNet" loading="lazy">
+    <img src="{{ '/assets/img/showcase/coronanet-logo.png' | relative_url }}" alt="CoronaNet">
     <div class="showcase-card__body">
       <h2>CoronaNet</h2>
       <p>Research data · harmonization · quality · R · TUM / HfP</p>
     </div>
   </a>
 
-  <a class="showcase-card" href="{{ '/showcase/r-workflows/' | relative_url }}">
-    <img src="{{ '/assets/img/showcase/discourse-lda-r.png' | relative_url }}" alt="R party discourse project" loading="lazy">
+  <a class="showcase-card" href="{{ '/showcase/party-discourse-lda/' | relative_url }}">
+    <img src="{{ '/assets/img/showcase/discourse-lda-r.png' | relative_url }}" alt="Party discourse LDA">project" loading="lazy">
     <div class="showcase-card__body">
       <h2>Party discourse (R / LDA)</h2>
       <p>quanteda · LDA · ~1.59M tweets · TUM CSS</p>

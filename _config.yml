@@ -56,8 +56,8 @@ author:
     email:           augustotei45@gmail.com
 
 menu:
-  - title: Home
-    url:   /
+#  - title: Home
+#    url:   /
   - title: About
     url:   /about/
   - title: Showcase
@@ -91,7 +91,7 @@ hydejack:
   no_large_headings:   false
   no_structured_data:  false
   no_theme_color:      false
-  no_breadcrumbs:      false
+  no_breadcrumbs:      true
 
   use_lsi:             true
   cookies_banner:      false
