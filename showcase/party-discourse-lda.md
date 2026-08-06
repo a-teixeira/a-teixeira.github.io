@@ -38,10 +38,32 @@ description: LDA topic models on ~1.59M German party tweets — TUM CSS
 <h2 id="stack">Stack</h2>
 <p>R · quanteda · seededlda · topicmodels · dplyr · lubridate · ggplot2 · readtext</p>
 
-<h2 id="links">Links</h2>
-<p><a href="https://github.com/a-teixeira/party-discourse-lda-r" target="_blank" rel="noopener">GitHub</a></p>
+<p class="case__note">Related research-data experience (different project): acknowledgements on the CoronaNet harmonization article — see <a href="{{ '/showcase/coronanet/' | relative_url }}">CoronaNet</a> and <a href="https://www.nature.com/articles/s41597-023-02881-x" target="_blank" rel="noopener">Scientific Data article</a>.</p>
 
+<h2 id="links">Links</h2>
+<ul>
+  <li><a href="https://github.com/a-teixeira/party-discourse-lda-r" target="_blank" rel="noopener">GitHub — party-discourse-lda-r</a></li>
+</ul>
 
 </article>
+
+<aside class="case__rail">
+  <div class="case__rail-block">
+    <h3>Description</h3>
+    <p>LDA topic models on ~1.59M German party tweets; quanteda + ggplot longitudinal comparison.</p>
+  </div>
+  <div class="case__rail-block">
+    <h3>Table of contents</h3>
+    <nav>
+      <a href="#focus">Focus</a>
+      <a href="#problem">Problem</a>
+      <a href="#what-i-did">What I did</a>
+      <a href="#result">Result</a>
+      <a href="#stack">Stack</a>
+      <a href="#links">Links</a>
+    </nav>
+  </div>
+</aside>
+
 </div>
 </div>
