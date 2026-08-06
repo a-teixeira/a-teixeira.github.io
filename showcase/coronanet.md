@@ -28,7 +28,7 @@ description: Research data integration, harmonization, and quality for a global 
 <h2 id="problem">Problem</h2>
 <p>Policy information was scattered across sources, formats, and languages. For comparable research, measures had to be <strong>collected, coded, validated, and harmonized</strong> across countries and time — with many research assistants in the loop and a living dataset that kept changing.</p>
 
-<h2 id="responsabilities">Responsabilities</h2>
+<h2 id="responsibilities">Responsibilities</h2>
 <ul>
 <li><strong>500-hour research internship</strong>, then continued as a <strong>hired contributor</strong> with the principal investigators.</li>
 <li><strong>Country expert:</strong> weekly structured coding (Qualtrics), validation, coordination meetings.</li>
@@ -48,7 +48,8 @@ description: Research data integration, harmonization, and quality for a global 
 <p>Research data workflows · data harmonization · quality control · R · Qualtrics / structured coding · coordination</p>
 
 <h2 id="links">Links</h2>
-<p>Research data workflows · data harmonization · quality control · R · Qualtrics / structured coding · coordination</p>
+<p><a href="https://www.nature.com/articles/s41597-023-02881-x" target="_blank" rel="noopener">Scientific Data / Nature portfolio article</a></p>
+<p><a href="https://www.coronanet-project.org">CoronaNet</a></p>
 
 </article>
 
