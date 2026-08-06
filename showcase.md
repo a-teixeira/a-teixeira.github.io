@@ -18,7 +18,7 @@ Work across **research data**, **R**, and **BI/Tableau** — from messy sources 
   </a>
 
   <a class="showcase-card" href="{{ '/showcase/party-discourse-lda/' | relative_url }}">
-    <img src="{{ '/assets/img/showcase/discourse-lda-r.png' | relative_url }}" alt="Party discourse LDA">project" loading="lazy">
+    <img src="{{} '/assets/img/showcase/discourse-lda-r.png' | relative_url }}" alt="Party discourse LDA">
     <div class="showcase-card__body">
       <h2>Party discourse (R / LDA)</h2>
       <p>quanteda · LDA · ~1.59M tweets · TUM CSS</p>
