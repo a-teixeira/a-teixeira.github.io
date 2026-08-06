@@ -54,7 +54,7 @@ CoronaNet builds a fine-grained, publicly available dataset of government COVID-
 
 ---
 
-## Selected projects
+## Showcase
 
 > Replace bracketed titles/links with your real repo or dashboard names when ready. Each line is already in “problem → method → result” form.
 

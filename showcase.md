@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Data analysis, research data, SQL, Python, R, and BI projects
+title: Showcase
+permalink: /showcase/
+description: Data analysis, research data, SQL, Python, R, and Tableau
 ---
 
 Work across **research data**, **SQL**, **Python**, **R**, and **BI/Tableau** — from messy sources to analysis-ready outputs and clear visuals.
