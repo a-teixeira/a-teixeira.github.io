@@ -94,6 +94,9 @@ Early training in evidence and structured argumentation; path continued into dat
 **Selected credentials**
 - Google Data Analytics pathway (Coursera) — cleaning, SQL, analysis, data-driven decisions  
 - Tableau / visual analytics (UC Davis via Coursera) — dashboards and storytelling  
+- Kurs der Rhetorik: die Kunst des Sprechens in der Öffentlichkeit FGV (Fundacao Getulio
+Vargas)  
+- Marketing/Vertrieb - Zertifikat Ludwig-Maximilians-Universität München
 - German C1 (e.g. TestDaF / C1 pathway) · English C1 (Cambridge First / overall C1 use) · Portuguese native  
 
 ---
