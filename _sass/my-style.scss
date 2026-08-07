@@ -155,24 +155,32 @@
 }
 
 
-/* Case study: main + right rail (Cejas-like) */
+/* Main column uses more width; rail stays on the far right */
 .case__grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 12rem;
-  gap: 1.75rem;
+  grid-template-columns: minmax(0, 1fr) 10rem; /* was ~12rem; rail narrower = more space for image */
+  column-gap: 2.5rem;   /* more space between text/image and TOC */
+  row-gap: 1rem;
   align-items: start;
+  max-width: none; /* allow full width for images */
   margin-top: 0.5rem;
 }
-.case__back { margin: 0 0 0.75rem; font-size: 0.95rem; }
-.case__hero {
+
+
+/* Poster: as wide as the main column (aligns with title edge above content) */
+.case__hero,
+.case__hero--wide {
   display: block;
   width: 100%;
-  max-height: 280px;
+  max-width: 100%;
+  height: auto;
+  max-height: none;     /* remove old 280px cap */
   object-fit: contain;
-  object-position: left center;
-  margin: 0.25rem 0 1rem;
+  object-position: left top;
+  margin: 0.25rem 0 1.25rem;
   border-radius: 6px;
 }
+
 .case__hero--logo { max-height: 120px; width: auto; }
 .case__quote {
   margin: 0.75rem 0 1.25rem;
@@ -194,14 +202,41 @@
   top: 4.5rem;
   font-size: 0.82rem;
 }
-.case__rail-block { margin-bottom: 1.25rem; }
-.case__rail h3 {
-  margin: 0 0 0.4rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  opacity: 0.65;
+
+/* Push description + TOC to the right edge of the content area */
+.case__rail {
+  position: sticky;
+  top: 4.5rem;
+  font-size: 0.82rem;
+  justify-self: end;    /* sit on the right of its grid cell */
+  width: 100%;
+  max-width: 10rem;
+  margin-left: 0.5rem;
+  text-align: left;
 }
+
+.case__rail-block {
+  margin-bottom: 1.25rem;
+}
+
+/* Optional: hide leftover back-link style if any remain */
+.case__back {
+  display: none;
+}
+
+@media (max-width: 48em) {
+  .case__grid {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+  }
+  .case__rail {
+    position: static;
+    justify-self: stretch;
+    max-width: none;
+    order: -1; /* TOC above content on mobile; delete order if you want TOC below */
+  }
+}
+
 .case__rail nav { display: flex; flex-direction: column; gap: 0.35rem; }
 .case__rail a { text-decoration: none; opacity: 0.85; }
 .case__rail a:hover { text-decoration: underline; opacity: 1; }

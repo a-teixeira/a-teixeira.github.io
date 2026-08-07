@@ -10,11 +10,8 @@ description: LDA topic models on ~1.59M German party tweets — TUM CSS
 
 <article class="case__main">
 
-<p class="case__back"><a href="{{ '/showcase/' | relative_url }}">← Showcase</a>
-·
-<a href="https://github.com/a-teixeira/party-discourse-lda-r" target="_blank" rel="noopener">GitHub</a></p>
 
-<img class="case__hero" src="{{ '/assets/img/showcase/discourse-lda-r.png' | relative_url }}" alt="Party discourse LDA poster">
+<img class="case__hero case__hero--wide" src="{{ '/assets/img/showcase/discourse-lda-r.png' | relative_url }}" alt="Party discourse LDA poster">
 
 <h2 id="focus">Focus</h2>
 <p>TUM CSS course project: large-scale text analysis of German party communication on Twitter using <strong>R</strong>, <strong>quanteda</strong>, and <strong>LDA</strong>.</p>
