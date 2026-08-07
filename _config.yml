@@ -57,7 +57,7 @@ author:
 
 menu:
   - title: Home
-    url:   /home/
+    url:   /
   - title: About
     url:   /about/
   - title: Showcase
