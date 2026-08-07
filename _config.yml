@@ -56,8 +56,8 @@ author:
     email:           augustotei45@gmail.com
 
 menu:
-#  - title: Home
-#    url:   /
+  - title: Home
+    url:   /home/
   - title: About
     url:   /about/
   - title: Showcase
