@@ -7,7 +7,7 @@ description: Curriculum vitae — Augusto Teixeira
 
 ## Download
 
-[Download CV (PDF, Europass)]({{ site.baseurl }}/assets/files/Augusto_Teixeira_CV_07/2026.pdf)
+[Download CV (PDF, Europass)]({{ '/assets/files/Augusto_Teixeira_CV_07-2026.pdf' | relative_url }})
 
 *Last updated: August 2026*
 
@@ -55,8 +55,6 @@ CoronaNet builds a fine-grained, publicly available dataset of government COVID-
 ---
 
 ## Showcase
-
-> Replace bracketed titles/links with your real repo or dashboard names when ready. Each line is already in “problem → method → result” form.
 
 ### SQL
 - **[Policy / ops metrics queries]** — Modeled analytical questions as SQL (filters, joins, aggregations) to turn structured tables into repeatable KPI pulls for reporting.
@@ -115,4 +113,4 @@ Early training in evidence and structured argumentation; path continued into dat
 
 For the complete Europass layout (detailed chronology, formal sections):
 
-**[Download PDF]({{ site.baseurl }}/assets/files/Augusto_Teixeira_CV_07/2026.pdf)**
+**[Download PDF]({{ '/assets/files/Augusto_Teixeira_CV_07-2026.pdf' | relative_url }})**
