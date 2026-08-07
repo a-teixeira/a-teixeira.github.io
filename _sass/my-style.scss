@@ -185,9 +185,9 @@
 
 /* Enlarge just the LDA poster — grows ~15% (roughly 2-3cm on typical screens) */
 .case__hero--lda {
-  width: 115%;
-  max-width: 115%;
-  margin-left: -7.5%;
+  width: 120%;
+  max-width: 120%;
+  margin-left: 0;
 }
 
 @media (max-width: 64em) {
