@@ -37,7 +37,7 @@ description: 15 public vizzes — four featured with Problem → Approach → Re
 </div>
 
 <div class="viz-block" id="f3">
-  <h2>Featured 3 — Superstore: losing or winning?</h2>
+  <h2>Featured 3 — Superstore: are we losing or winning?</h2>
   <p class="viz-meta">Tableau · loss patterns · Superstore</p>
   <p><strong>Problem.</strong> Is the business winning on profit — and where do losses cluster?<br>
   <strong>Approach.</strong> Pattern-of-losses view separating winning vs losing pockets.<br>
