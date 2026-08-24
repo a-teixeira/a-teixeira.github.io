@@ -26,7 +26,6 @@ description: Curriculum vitae — Augusto Teixeira
 | Data | SQL, Python, R, cleaning, validation, integration, automation, statistics |
 | BI | Tableau, dashboards, Excel |
 | Workflow | Git/GitHub, VS Code, Google Sheets, Office |
-<!--| Security | SIEM concepts, log analysis (in progress) |-->
 | Working style | Analytical rigor, clear communication, mentoring, delivery, quality mindset |
 | Languages | Portuguese (native), English (C1), German (C1) |
 
