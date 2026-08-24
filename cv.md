@@ -23,7 +23,7 @@ description: Curriculum vitae — Augusto Teixeira
 
 | Area | Tools / topics |
 |------|----------------|
-| Data | SQL, Python, R, cleaning, validation, integration, automation, statistics |
+| Data | SQL, Python, R, ETL-processes, integration, automation, statistics |
 | BI | Tableau, dashboards, Excel |
 | Workflow | Git/GitHub, VS Code, Google Sheets, Office |
 | Working style | Analytical rigor, clear communication, mentoring, delivery, quality mindset |
@@ -78,8 +78,8 @@ CoronaNet builds a fine-grained, publicly available dataset of government COVID-
 
 ## Education
 
-**B.Sc. Business Informatics (Wirtschaftsinformatik)[actual]**  
-IU International University of Applied Sciences · Munich · Feb 2025 – present  
+**B.Sc. Business Informatics (Wirtschaftsinformatik) [actual]**  
+IU International University of Applied Sciences · Munich · Feb 2025  
 Focus: information systems, data, and the link between business questions and technical implementation.
 
 **B.Sc. Political Science** (Information & Communication Technologies focus)  
