@@ -15,7 +15,7 @@ description: Curriculum vitae — Augusto Teixeira
 
 ## Profile
 
-<p>Business Informatic student in Munich focused on pragmatic data analysis: SQL and Python for pipelines and logic, R for statistics and research workflows, Tableau/BI for decision-ready visuals. Experience at CoronaNet coding, integrating, and validating large public and economic datasets, automating analysis in R, and turning structured data into clear stakeholders updates. Interested in analytics, BI, and security-minded data work.</p>
+<p>Business Informatic student in Munich focused on pragmatic data analysis: SQL and Python for pipelines and logic, R for statistics and research workflows, Tableau/BI for decision-ready visuals. Experience at CoronaNet coding, integrating, and validating large public and economic datasets, automating analysis in R, and turning structured data into clear stakeholders updates. Interested in analytics, BI, and ETL processes.</p>
 
 ---
 
@@ -26,7 +26,7 @@ description: Curriculum vitae — Augusto Teixeira
 | Data | SQL, Python, R, cleaning, validation, integration, automation, statistics |
 | BI | Tableau, dashboards, Excel |
 | Workflow | Git/GitHub, VS Code, Google Sheets, Office |
-| Security | SIEM concepts, log analysis (in progress) |
+<!--| Security | SIEM concepts, log analysis (in progress) |-->
 | Working style | Analytical rigor, clear communication, mentoring, delivery, quality mindset |
 | Languages | Portuguese (native), English (C1), German (C1) |
 
@@ -79,7 +79,7 @@ CoronaNet builds a fine-grained, publicly available dataset of government COVID-
 
 ## Education
 
-**B.Sc. Business Informatics (Wirtschaftsinformatik)**  
+**B.Sc. Business Informatics (Wirtschaftsinformatik)[actual]**  
 IU International University of Applied Sciences · Munich · Feb 2025 – present  
 Focus: information systems, data, and the link between business questions and technical implementation.
 
