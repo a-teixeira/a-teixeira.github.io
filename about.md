@@ -8,22 +8,23 @@ description: About Augusto Teixeira
 <div class="about-split">
   <div class="about-split__text">
 
-<p>It didnt start in a terminal. But in a debate room.</p>
+It didn't start in a terminal. But in a debate room.
 
-<p>Law and Politics teach, now more than ever, a stubborn habit: claims need evidence, evidence needs structure, and structure is useless if nobody can follow the story. That habit never left. What changed was the medium - from briefs and debate to databases and dashboards.</p>
+Politics is already data work, even when nobody calls it that. A claim needs a source. A source needs a structure. A structure is useless if the sequence is sloppy and nobody can follow what changed, when, and why it matters. That habit never left. What changed was the medium - from briefs and debate to pipelines, schemas, and dashboards.
 
-<p>That same discipline of evidence met scale at CoronaNet, where I worked as an expert research assistant on public and economic policies worldwide, with a focus on Luxembourg and Brazil. I collected, cleaned, integrated, and supervised more than 600 policies into the project database, coordinated three other research assistants, and ran onboarding for new members - while also contributing to workshops on the R programming language.</p>
+That discipline met scale at the CoronaNet Research Project. CoronaNet built one of the largest event-based policy datasets in the world: more than 180,000 entries across 195 countries, with fine-grained detail on who acted, who was targeted, and when. I worked there as data integration manager, project manager, and expert research assistant, with a focus on Luxembourg and Brazil. The job was not only to read policy. It was to make heterogeneous records usable: collect from source documents, clean inconsistencies, normalize categories across jurisdictions, assess overlap with external trackers, and integrate what was missing into a shared taxonomy: the same ETL logic, just at the scale of a global research database.
 
-<p>Today I am in Business Informatics (Wirtschaftsinformatik) and build my work around one pilar: pragmatic data analysis. Not analysis as decoration - analysis as a way to answer real questions under constraints of time, quality, and consequence. SQL and Python for the spine; R when the statistics have to be honest; BI when the answer has to travel from a query to a room full of people who will act on it.</p>
+I coordinated three research assistants, ran onboarding, and contributed to R workshops. Day to day that meant quality control, relational storage, Google Sheets when the team needed a living working layer, and R when the modeling and reporting had to be repeatable. Data management was the constraint, not the afterthought: integrity first, then analysis that someone else could audit.
 
-<p>Storytelling is built on a foundation of thoughtfulness: the empathy of seeing where others are, what they dream of and what they want. Numbers rarely persuade on their own. Sequence does. Framing does. Knowing what to leave out does. My aim is work that is technically sound and narratively clear: a path from raw data to a conclusion someone can audit, challenge, and still understand.</p>
+Today I study Business Informatics (Wirtschaftsinformatik) because that is where the two instincts I actually have sit in the same room: how organizations decide, and how systems keep those decisions honest. The work I want is pragmatic data analysis. Not analysis as decoration but as a path from raw tables to an answer under limits of time, quality, and consequence.
 
-<p>Between Brazil, Germany, and the languages I work in, I've learned to translate more than words - between domains, between technical depth and human stakes, between "interesting finding" and "decision".</p>
+The spine is familiar. Clean, then normalize, then integrate. SQL and Python for extraction and transformation. R when the statistics have to be stated carefully. Tableau when the result has to leave the query and survive a room - a dashboard that shows the pattern without hiding the grain of the data. Sequence still matters. Framing still matters. Knowing what to leave out still matters.
 
-<p>I'm here to keep crossing that bridge: politics' sense of systems, business's sense of incentives, informatics' tools, and security's edge  always returning to data that means something, told well enough to matter.</p>
+Between Brazil, Germany, and the languages I work in, the useful skill is translation: between a messy source and a schema, between a model and a decision, between an "interesting finding" and something a team can act on.
 
-<p>It didn't start in a terminal, but it will probably end there: with one more query, one sharper analysis, one signal that finally makes sense.</p>
+I'm here to keep doing that work: politics' sense of systems, business's sense of incentives, informatics' tools. Always back to data that can be cleaned, joined, checked - and told clearly enough to matter.
 
+It didn't start in a terminal, but it will probably end there: one more extract, one cleaner join, one sharper view that finally makes the signal usable.
   </div>
 
   <div class="about-split__media">

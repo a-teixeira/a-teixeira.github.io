@@ -7,7 +7,7 @@ description: Curriculum vitae — Augusto Teixeira
 
 ## Download
 
-[Download CV (PDF, Europass)]({{ '/assets/files/Augusto_Teixeira_CV_07_2026.pdf' | relative_url }})
+[Download CV (PDF, Europass)]({{ '/assets/files/AT_CV_08_2026.pdf' | relative_url }})
 
 *Last updated: August 2026*
 
@@ -86,10 +86,6 @@ Focus: information systems, data, and the link between business questions and te
 Technical University of Munich — Hochschule für Politik · Oct 2020 – Sep 2025  
 Thesis grade: 1.2 · Research internship and employment with CoronaNet at the Chair of International Relations.
 
-**Law** (one year, discontinued)  
-PUC Minas · Belo Horizonte · 2016 – 2017  
-Early training in evidence and structured argumentation; path continued into data and informatics.
-
 **Selected credentials**
 - Google Data Analytics pathway (Coursera) — cleaning, SQL, analysis, data-driven decisions  
 - Tableau / visual analytics (UC Davis via Coursera) — dashboards and storytelling  
@@ -115,4 +111,4 @@ Vargas)
 
 For the complete Europass layout (detailed chronology, formal sections):
 
-**[Download PDF]({{ '/assets/files/Augusto_Teixeira_CV_07_2026.pdf' | relative_url }})**
+**[Download PDF]({{ '/assets/files/AT_CV_08_2026.pdf' | relative_url }})**
