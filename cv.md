@@ -7,7 +7,7 @@ description: Curriculum vitae — Augusto Teixeira
 
 ## Download
 
-[Download CV (PDF, Europass)]({{ '/assets/files/AT_CV_08_2026.pdf' | relative_url }})
+[Download CV (PDF, Europass)]({{ '/assets/files/AT_CV_08_2026_pro.pdf' | relative_url }})
 
 *Last updated: August 2026*
 
@@ -111,4 +111,4 @@ Vargas)
 
 For the complete Europass layout (detailed chronology, formal sections):
 
-**[Download PDF]({{ '/assets/files/AT_CV_08_2026.pdf' | relative_url }})**
+**[Download PDF]({{ '/assets/files/AT_CV_08_2026_pro.pdf' | relative_url }})**
